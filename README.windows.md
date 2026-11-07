@@ -12,7 +12,7 @@
 
 <br />
 
-<img src="./assets/win-services.svg" width="100%" alt="Services: Kali Linux, Web Security, API Security, Android, Proxmox VE, CyberBroLabs" />
+<img src="./assets/win-services.svg" width="100%" alt="Services: Kali Linux, Web Security, API Security, Android, Proxmox VE, CyberLabs" />
 
 <br />
 
@@ -20,12 +20,12 @@
 
 <br />
 
-<img src="./assets/win-explorer.svg" width="100%" alt="Explorer: ThreatEye and CyberBroLabs" />
+<img src="./assets/win-explorer.svg" width="100%" alt="Explorer: ThreatEye and CyberLabs" />
 
 </div>
 
 - [**ThreatEye**](https://github.com/shohruhyuldashev/ThreatEye-AI-Email-Security) - AI-powered email security lab (open source)
-- **CyberBroLabs** - self-built CTF challenges, labs and infrastructure
+- **CyberLabs** - self-built CTF challenges, labs and infrastructure
 
 <div align="center">
 

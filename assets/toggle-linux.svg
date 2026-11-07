@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="44" viewBox="0 0 230 44" font-family="'DejaVu Sans Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" role="img" aria-label="Switch: Linux view (current), click for Windows NT view">
+  <rect x="1" y="1" width="228" height="42" rx="21" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text x="36" y="27" text-anchor="middle" fill="#4f9dff" font-weight="bold" letter-spacing="1">LINUX</text>
+  <rect x="72" y="10" width="60" height="24" rx="12" fill="#30363d"><animate attributeName="fill" from="#1f6feb" to="#30363d" begin="0s" dur="0.4s" fill="freeze"/></rect>
+  <circle cx="84" cy="22" r="9" fill="#4f9dff"><animate attributeName="cx" from="120" to="84" begin="0s" dur="0.4s" fill="freeze"/></circle>
+  <text x="186" y="27" text-anchor="middle" fill="#6b7a90" letter-spacing="1">WINDOWS</text>
+</svg>

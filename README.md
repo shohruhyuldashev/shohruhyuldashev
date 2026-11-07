@@ -29,7 +29,7 @@ PORT        STATE  SERVICE        VERSION
 443/tcp     open   api-security   bug bounty recon and PoCs
 5555/tcp    open   android        app development and security research
 8006/tcp    open   proxmox        Proxmox VE, VPS, home lab
-31337/tcp   open   ctf-labs       CyberBroLabs: CTFs and lab environments
+31337/tcp   open   ctf-labs       CyberLabs: CTFs and lab environments
 
 Service detection performed. 6 services found.
 ```
@@ -40,11 +40,11 @@ Service detection performed. 6 services found.
 $ ls -la ~/projects
 total 2
 drwxr-xr-x  shohruh  ThreatEye/      AI-powered email security lab (open source)
-drwxr-xr-x  shohruh  CyberBroLabs/   CTF challenges, labs and infrastructure
+drwxr-xr-x  shohruh  CyberLabs/   CTF challenges, labs and infrastructure
 ```
 
 - [**ThreatEye**](https://github.com/shohruhyuldashev/ThreatEye-AI-Email-Security) - AI-powered email security lab (open source)
-- **CyberBroLabs** - self-built CTF challenges, labs and infrastructure
+- **CyberLabs** - self-built CTF challenges, labs and infrastructure
 
 ## `$ crontab -l`
 

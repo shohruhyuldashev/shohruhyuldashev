@@ -57,9 +57,7 @@ $ crontab -l
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shohruhyuldashev&show_icons=true&hide_border=false&border_radius=10&bg_color=0d1117&title_color=4f9dff&text_color=d6deeb&icon_color=4f9dff&border_color=30363d" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruhyuldashev&layout=compact&border_radius=10&bg_color=0d1117&title_color=4f9dff&text_color=d6deeb&border_color=30363d" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=shohruhyuldashev&theme=dark&background=0d1117&ring=4f9dff&fire=4f9dff&currStreakLabel=4f9dff&currStreakNum=d6deeb&sideNums=d6deeb&sideLabels=57c7ff&dates=6b7a90&border=30363d&hide_border=false&border_radius=10" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=shohruhyuldashev&theme=dark&background=0d1117&ring=4f9dff&fire=4f9dff&currStreakLabel=4f9dff&currStreakNum=d6deeb&sideNums=d6deeb&sideLabels=57c7ff&dates=6b7a90&border=30363d&hide_border=false&border_radius=10" alt="GitHub streak" />
 
 </div>
 
